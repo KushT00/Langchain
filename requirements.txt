@@ -1,0 +1,6 @@
+langchain
+google-generativeai
+python-dotenv
+wikipedia
+arxiv
+faiss
